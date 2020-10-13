@@ -1,5 +1,5 @@
 # Project Title
-Demonstration of CRUD Application with Authentication System Using NodeJS, ExpressJS, MySQL, JQuery, Joi, JWT, Bcrypt, Bootstrap, ejs, REST, cookie and body parser.
+Demonstration of CRUD Application with Authentication System Using NodeJS, ExpressJS, MySQL, jQuery, AJAX, Joi, JWT, Bcrypt, Bootstrap, ejs, REST, cookie and body parser.
 
 ## Getting Started
 All the source code related UI logic is present inside the \*.html file. Index.js contains the configuration, database.js contains the backend connection logic. The core functionality of the application can be found inside Routes directory. nodecrud.sql file contains the schema of the backend. It requires HTML5 Browser, MySQL server, Node & Express JS.
