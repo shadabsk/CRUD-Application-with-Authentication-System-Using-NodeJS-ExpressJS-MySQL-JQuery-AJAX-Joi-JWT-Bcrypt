@@ -61,8 +61,8 @@ enabling apache and mySQL server in xampp application
 * Take a look at the working project demonstration. Click on the image to view the complete video
 
 
-[![CRUD Operation via Django Framework & jQuery with AJAX
-](https://i.ytimg.com/vi/ahj89qrpcsg/hqdefault.jpg)](https://youtu.be/ahj89qrpcsg)
+[![CRUD Application with Login Using Node, ExpressJS, MySQL, jQuery, AJAX, JOI, JWT, Bcrypt, EJS, REST.
+](https://i.ytimg.com/vi/WSEdv2rRkOM/hqdefault.jpg)](https://youtu.be/WSEdv2rRkOM)
 
 
 ## Authors
