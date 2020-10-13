@@ -72,11 +72,7 @@ enabling apache and mySQL server in xampp application
 ## Acknowledgments
 
 * Video tutorials from Simo Edwin [developedbyed](https://github.com/developedbyed)
-```
 [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://www.youtube.com/watch?v=vjf774RKrLc)
-```
-```
 [Build A Node.js API Authentication With JWT Tutorial](https://www.youtube.com/watch?v=2jqok-WgelI)
-```
 
 * The template of readme.md was taken from [PurpleBooth](https://github.com/PurpleBooth)
