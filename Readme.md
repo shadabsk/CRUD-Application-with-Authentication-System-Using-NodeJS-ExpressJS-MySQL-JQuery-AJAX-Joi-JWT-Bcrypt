@@ -4,11 +4,11 @@ Demonstration of CRUD Application with Authentication System Using NodeJS, Expre
 This application performs various crud operation on an employee data. Bundled with authentication system and rest end point support.
 
 Features
-• Authentication System including Hashing, Salting and encrypting of Passwords. 
-• Generation of JWT tokens & Performing various Client Side - Server Side Validations.
-• Connection with MySQL database and usage of cookies with EJS template engine.
-• Encompassing Protected routes & middle-wares.
-• REST End-Point Support along with traditional intuitive UI.
+* Authentication System including Hashing, Salting and encrypting of Passwords.
+* Generation of JWT tokens & Performing various Client Side - Server Side Validations.
+* Connection with MySQL database and usage of cookies with EJS template engine.
+* Encompassing Protected routes & middle-wares.
+* REST End-Point Support along with traditional intuitive UI.
 
 ## Getting Started
 All the source code related UI logic is present inside the \*.html file. Index.js contains the configuration, database.js contains the backend connection logic. The core functionality of the application can be found inside Routes directory. nodecrud.sql file contains the schema of the backend. It requires HTML5 Browser, MySQL server, Node & Express JS.
